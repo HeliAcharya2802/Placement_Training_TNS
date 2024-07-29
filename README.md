@@ -1,0 +1,1 @@
+Hi! I’m T050700856, learning Full Stack Java through TNS India Foundation. I’m starting with Core Java for basic skills, then moving to Advanced Java for web apps and databases, and studying Spring Framework for complex Java applications. I’ll be posting my code and projects here during my training. Feel free to check them out!
